@@ -1,0 +1,11 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ContactsListView.qml</file>
+        <file>SessionListView.qml</file>
+        <file>ContentView.qml</file>
+        <file>MainPage.qml</file>
+        <file>image.png</file>
+    </qresource>
+</RCC>
